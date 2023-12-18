@@ -10,13 +10,13 @@
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	background: #c2c3fa;
+	background: #ec9752;
 }
 
 .cards-container {
 	width: 700px;
 	height: 80%;
-	gap: 10px;
+	gap: 15px;
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -28,9 +28,9 @@
 	position: relative;
 	width: 150px;
 	height: 200px;
-	border: 2px solid #060AB2;
+	border: 2px solid #dd6300;
 	border-radius: 10px;
-	box-shadow: 2px 2px 2px #060AB2;
+	box-shadow: 3px 3px 3px #cf5d00;
 	transform: scale(1);
 	transform-style: preserve-3d;
 	transition: transform 500ms;
